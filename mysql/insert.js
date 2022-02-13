@@ -1,7 +1,6 @@
 const db = require('../config/db')
 
 // Input data database bisa menggunakan postman
-// Input data database bisa menggunakan postman
 
 // //catagory
 let data = [
